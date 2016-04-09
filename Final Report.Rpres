@@ -46,9 +46,8 @@ A strategy in which the Quadgram is checked first, then the Trigram, then the Bi
 Finally..
 ====================
 1. This simple application does not take semantic context into account. Additional filters on the input text could eliminate internal "noise" clauses and provide better prediction.
-
 2. The limitations of the Shiny infrastructure prevented larger data structures from being deployed. An alternative server or implementation language may help to provide key-value looks for the additional news and blog text input samples.
-
 3. Further filtering and compression may help the performance of the application.
-
 4. Thank you for reading. Don't forget to try out my simple application. Thanks!
+
+All files are here: [GITHUB Link](https://github.com/taroathirah/Project)
