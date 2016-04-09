@@ -1,0 +1,10 @@
+name: DSCapstone
+account: taroathirah
+server: shinyapps.io
+appId: 93168
+bundleId: 414380
+url: https://taroathirah.shinyapps.io/DSCapstone/
+when: 1460196618.00812
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Final Report.Rpres|Final Report.md|Final Report-figure/unnamed-chunk-2-1.png
